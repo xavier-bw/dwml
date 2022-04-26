@@ -219,6 +219,8 @@ FUNC ={
 	'coth' : '\\coth({fe})',
 	'sec'  : '\\sec({fe})',
 	'csc'  : '\\csc({fe})',
+	'log'  : '\\log{{fe}}',
+	'ln'  : '\\ln{{fe}}',
 }
 
 FUNC_PLACE = '{fe}'

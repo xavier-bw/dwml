@@ -107,4 +107,46 @@
 			</m:e>
 	</m:bar>
 	</m:oMath>
+	<m:oMath>		
+		<m:func>
+			<m:fName>
+				<m:r>
+					<m:t>log</m:t>
+				</m:r>
+			</m:fName>
+			<m:e>
+				<m:d>
+					<m:dPr>
+						<m:ctrlPr></m:ctrlPr>
+					</m:dPr>
+					<m:e>
+						<m:r>
+							<m:t>x</m:t>
+						</m:r>
+					</m:e>
+				</m:d>
+			</m:e>
+		</m:func>
+	</m:oMath>		
+	<m:oMath>		
+		<m:func>
+			<m:fName>
+				<m:r>
+					<m:t>ln</m:t>
+				</m:r>
+			</m:fName>
+			<m:e>
+				<m:d>
+					<m:dPr>
+						<m:ctrlPr></m:ctrlPr>
+					</m:dPr>
+					<m:e>
+						<m:r>
+							<m:t>x</m:t>
+						</m:r>
+					</m:e>
+				</m:d>
+			</m:e>
+		</m:func>
+	</m:oMath>		
 </m:oMathPara>
